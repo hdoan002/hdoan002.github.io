@@ -1,5 +1,46 @@
-.container{
-    color:#CF32FF;
+.container {
+    color:black;
     font-family: "Times New Roman";
-    border: 1px solid #FF3265;
+    background-color:white;
+    border:solid black;
+    padding:12px;
+}
+
+.container_resume {
+    border:solid black 3px;
+    background-color:#ccff99;
+    padding:10px;
+    width:200px;
+    height:100px;
+}
+
+.page_background {
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+}
+
+.picture_div {
+    position:relative;
+    width:450px;
+    height:300px;
+    display:inline-block;
+    margin:10px;
+}
+
+.pic {
+    position:relative;
+    width:450px;
+    height:300px;
+}
+
+.contact_me_div {
+    background-color:#68879b;
+    border:solid black;
+    padding:5px;
+    margin:10px;
+}
+
+.contact {
+    padding:10px;
 }
