@@ -3,26 +3,31 @@
     font-family: "Times New Roman";
     background-color:white;
     border:solid black;
-    padding:12px;
+    padding:10px;
+    margin: 10px;
 }
 
+/*Resume section on home page*/
 .container_resume {
     border:solid black 3px;
     background-color:#ccff99;
     padding:10px;
     width:200px;
     height:100px;
+    margin:1px;
 }
 
+/*Page background presets*/
 .page_background {
     background-repeat:no-repeat;
     background-size:cover;
     background-position:center;
 }
 
+/*Pictures on home page*/
 .picture_div {
     position:relative;
-    width:450px;
+    width:475px;
     height:300px;
     display:inline-block;
     margin:10px;
@@ -30,17 +35,57 @@
 
 .pic {
     position:relative;
-    width:450px;
+    width:475px;
     height:300px;
+    border:solid black 2px;
 }
 
+/*Projects*/
+.project_pic {
+    position:relative;
+    left:0px;
+    width:475px;
+    height:300px;
+    float:left;
+    margin:0 50px 0 0;
+    border:solid black 2px;
+}
+
+.project_div {
+    background:rgba(169,169,169,0.79);
+    border: solid black 3px;
+    padding:30px;
+    height:400px;
+    margin:30px 0 30px;
+}
+
+.project_content_div {
+    padding:5px;
+    margin:10px 0px 10px 500px;
+    padding:10px;
+    border:solid black 3px;
+    background-color:white;
+}
+
+/*Banner*/
+.banner {
+    border:solid black 3px;
+    background-color:black;
+    color:white;
+    width:auto;
+    height:90;
+    padding:10px;
+}
+
+/*Contact me on home page*/
 .contact_me_div {
-    background-color:#68879b;
+    background-color:#ccff99;
     border:solid black;
     padding:5px;
     margin:10px;
 }
 
 .contact {
-    padding:10px;
+    padding:12px;
+    margin:10px;
 }
