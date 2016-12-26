@@ -4,7 +4,7 @@
     background-color:white;
     border:solid black;
     padding:10px;
-    margin: 10px;
+    margin:10px 10px 5px 10px;
 }
 
 /*Resume section on home page*/
@@ -14,7 +14,7 @@
     padding:10px;
     width:200px;
     height:100px;
-    margin:1px;
+    margin:10px 10px 5px 0px;
 }
 
 /*Page background presets*/
@@ -82,10 +82,10 @@
     background-color:#ccff99;
     border:solid black;
     padding:5px;
-    margin:10px;
+    margin: 10px 10px 5px 10px;
 }
 
 .contact {
     padding:12px;
-    margin:10px;
+    margin: 20px 0px 20px 0px;
 }
