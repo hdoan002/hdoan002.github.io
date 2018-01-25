@@ -1,22 +1,3 @@
-/*General Purpose Container*/
-
-/*Resume section on home page*/
-.container_resume {
-    border:solid black 3px;
-    background-color:#ccff99;
-    padding:10px;
-    width:200px;
-    height:100px;
-    margin:10px 10px 5px 0px;
-}
-
-/*Page background presets*/
-.page_background {
-    background-repeat:no-repeat;
-    background-size:cover;
-    background-position:center;
-}
-
 /*Pictures on home page*/
 .picture_div {
     position:relative;
@@ -58,41 +39,4 @@
     padding:10px;
     border:solid black 3px;
     background-color:white;
-}
-
-/*Banner*/
-.banner {
-    border:solid black 3px;
-    background-color:black;
-    color:white;
-    width:auto;
-    height:90px;
-    padding:10px;
-}
-
-/*Contact me on home page*/
-.contact_me_div {
-    background-color:#ccff99;
-    border:solid black;
-    padding:5px;
-    margin: 10px 10px 5px 10px;
-}
-
-.contact {
-    margin: auto;
-    width: 50%;
-    padding: 20px;
-}
-
-/*Calendar*/
-.calendar_icon {
-    width:200px;
-    height:50px;
-    text-align: right;
-}
-
-/*Icon div*/
-.i_div {
-    float:left;
-    margin: 15px 7px 10px 5px;
 }
