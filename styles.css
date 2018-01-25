@@ -1,12 +1,4 @@
 /*General Purpose Container*/
-.container {
-    color:black;
-    font-family: "Times New Roman";
-    background-color:white;
-    border:solid black;
-    padding:10px;
-    margin:10px 10px 5px 10px;
-}
 
 /*Resume section on home page*/
 .container_resume {
@@ -74,7 +66,7 @@
     background-color:black;
     color:white;
     width:auto;
-    height:90;
+    height:90px;
     padding:10px;
 }
 
@@ -87,8 +79,9 @@
 }
 
 .contact {
-    padding:12px;
-    margin: 20px 0px 20px 0px;
+    margin: auto;
+    width: 50%;
+    padding: 20px;
 }
 
 /*Calendar*/
